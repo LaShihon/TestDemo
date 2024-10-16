@@ -1,0 +1,6 @@
+function killme() {
+    console.log("killme");
+}
+
+// Call the function to execute it
+killme();
